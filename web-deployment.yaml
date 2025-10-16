@@ -21,4 +21,3 @@ spec:
           envFrom:
             - configMapRef:
                 name: synergychat-web-configmap
-
